@@ -1,4 +1,6 @@
 # music-client
+## Project need know 
+This project is my curriculum, a music playback management website with front and back office. The background page is complete, but the front page is not yet.
 
 ## Project setup
 ```
