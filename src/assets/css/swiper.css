@@ -1,0 +1,10 @@
+.swiper {
+    width: 90%;
+    padding-top: 20px;
+    margin:0 auto;
+    background-color: rgba(0,0,0,0.1);
+}
+.swiper img {
+    width: 100%;
+
+}
